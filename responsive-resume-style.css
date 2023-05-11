@@ -5,3 +5,7 @@
 .bg-primary {
     color: white;
 }
+
+.badge {
+    margin-top: 3px;
+}
